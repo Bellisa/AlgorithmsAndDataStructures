@@ -1,0 +1,15 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Personnel Performance Assessment: Algorithms & Data Structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Olesya Kurilenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bellisa/AlgorithmsAndDataStructures/issues"
+  },
+  "homepage": "https://github.com/Bellisa/AlgorithmsAndDataStructures#readme"
+}
